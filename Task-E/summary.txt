@@ -1,0 +1,4 @@
+Week 40 electricity consumption and production (kWh, by phase)
+Day      Date           Consumption [kWh]            Production [kWh]
+                        v1      v2      v3           v1     v2      v3
+---------------------------------------------------------------------------
