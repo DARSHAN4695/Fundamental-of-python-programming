@@ -1,0 +1,5 @@
+-----------------------------------------------------
+Report for the month: January
+- Total consumption: 1545,24 kWh
+- Total production: 0,00 kWh
+- Average temperature: -1,82 °C
